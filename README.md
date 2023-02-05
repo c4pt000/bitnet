@@ -1,3 +1,6 @@
+# please see the main project page here
+https://github.com/bitnet-io/bitnet-core
+
 # bitnet-core
 Bitnet-Core based off of radiocoin with improvements
 * 20,000,000,000 total supply (down from 100 B)
