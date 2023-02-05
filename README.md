@@ -1,5 +1,7 @@
 # please see the main project page here
-https://github.com/bitnet-io/bitnet-core
+# https://github.com/bitnet-io/bitnet-core
+# for releases
+# https://github.com/bitnet-io/bitnet-core/releases
 
 # bitnet-core
 Bitnet-Core based off of radiocoin with improvements
